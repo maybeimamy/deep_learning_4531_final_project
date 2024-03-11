@@ -1,0 +1,2 @@
+# deep_learning_4531_final_project
+LEUKEMIA BLOOD SMEAR IMAGE CLASSIFICATION (CNN MODEL)
